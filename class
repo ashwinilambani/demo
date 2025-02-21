@@ -2,6 +2,6 @@ class simple
 {
 public stati void main(string[]args)
 {
-system.out.println("hello babu")
+system.out.println("hello babu");
 }
 }
